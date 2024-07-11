@@ -1,0 +1,7 @@
+id = "flexoki-themes"
+name = "Flexoki Themes"
+version = "0.0.1"
+schema_version = 1
+authors = ["Rohan Verma <hello@rohanverma.net>"]
+description = "Flexoki Theme for Zed"
+repository = "https://github.com/oddship/zed-flexoki-theme"
